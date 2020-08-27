@@ -1,0 +1,21 @@
+.courses{
+    display: grid;
+    border: 2px solid white;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+    padding: 25px;
+}
+.courses-details{
+    color: rgb(238, 171, 0);
+    padding: 5px;
+    font-weight: 400;
+}
+.courses img{
+    height: 150px;
+}
+.courses-text{
+    color: black;
+}
+.courses-price{
+    color: red;
+}
